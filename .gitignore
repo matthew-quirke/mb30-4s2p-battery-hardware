@@ -1,0 +1,14 @@
+# FreeCAD backup files
+*.FCStd1
+*.FCStd2
+*.FCBak
+
+# FreeCAD lock files
+*.~lock.*
+
+# Temporary files
+*.tmp
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
